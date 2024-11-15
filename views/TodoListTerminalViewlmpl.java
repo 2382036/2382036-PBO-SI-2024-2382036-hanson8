@@ -4,11 +4,11 @@ import entitas.TodoList;
 import services.TodoListServices;
 import java.util.Scanner;
 
-public class TodoListTerminalView implements TodoListView{
+public class TodoListTerminalViewlmpl implements TodoListView{
     public static Scanner scanner = new Scanner(System.in);
     private final TodoListServices todoListService;
 
-    public TodoListTerminalView(final TodoListServices todoListService) {
+    public TodoListTerminalViewlmpl(final TodoListServices todoListService) {
         this.todoListService = todoListService;
     }
 
