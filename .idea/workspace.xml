@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba12d570-51c1-4b38-8719-692b5d6db200" name="Changes" comment="Hanson9">
+      <change afterPath="$PROJECT_DIR$/config/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repositories/TodoListRepositoryDblmpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/TodoListTerminalViewlmpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/2382036-PBO-SI-2024-2382036-hanson8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/2382036-PBO-SI-2024-2382036-hanson8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2382036-PBO-SI-2024-2382036-hanson8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2382036-PBO-SI-2024-2382036-hanson8/.idea/2382036-PBO-SI-2024-2382036-hanson8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2382036-PBO-SI-2024-2382036-hanson8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2382036-PBO-SI-2024-2382036-hanson8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2382036-PBO-SI-2024-2382036-hanson8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2382036-PBO-SI-2024-2382036-hanson8/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2382036-PBO-SI-2024-2382036-hanson8/entitas/TodoList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2382036-PBO-SI-2024-2382036-hanson8/repositories/TodoListRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2382036-PBO-SI-2024-2382036-hanson8/repositories/TodoListRepositorylmpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2382036-PBO-SI-2024-2382036-hanson8/services/TodoListServicelmpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2382036-PBO-SI-2024-2382036-hanson8/services/TodoListServices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2382036-PBO-SI-2024-2382036-hanson8/views/TodoListTerminalView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2382036-PBO-SI-2024-2382036-hanson8/views/TodoListView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/TodoListTerminalView.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "2382036"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/2382036/2382036-PBO-SI-2024-2382036-hanson8.git",
+    "accountId": "db3040f3-e69d-4c70-8248-e28be7f79d80"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2oQdVEaNYXmDXElpluYTybbFosF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Acer/Downloads/mysql-connector.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="2382036-PBO-SI-2024-2382036-hanson8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba12d570-51c1-4b38-8719-692b5d6db200" name="Changes" comment="" />
+      <created>1730805755348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730805755348</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Hanson8">
+      <option name="closed" value="true" />
+      <created>1730986878669</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730986878669</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Hanson9">
+      <option name="closed" value="true" />
+      <created>1731675643481</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731675643481</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hanson8" />
+    <MESSAGE value="Hanson9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hanson9" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/repositories/TodoListRepositoryDblmpl.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/repositories/TodoListRepositoryDblmpl.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
